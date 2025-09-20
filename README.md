@@ -52,5 +52,8 @@ Voltage Ripple (Delta V) = 20mV
 Current Ripple (Delta I) = 0.1A
 
 ## Simulation
+<img width="776" height="542" alt="image" src="https://github.com/user-attachments/assets/3f46da8c-12ed-450f-ac77-c793667c8b8f" />
 ## Output
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/382cc271-c5bd-4920-b09d-d00bf910e46f" />
 ## Result
+The MATLAB/Simulink simulation of the step-down chopper shows that the output voltage is proportional to the duty cycle, the inductor current remains continuous with small ripple, and the circuit operates efficiently as expected.
